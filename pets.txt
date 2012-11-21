@@ -1,4 +1,3 @@
 cats
 dogs
 turtles
-alligators
